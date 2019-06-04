@@ -1,0 +1,16 @@
+// variable overrides
+.main-form {
+    width: 450px;
+    margin: auto;
+}
+
+.divider-line {
+    max-width: 260px;
+    height: 4px;
+    background: linear-gradient(to right,#ff004e 0%,#ffb128 100%);
+    margin: .5rem 0;
+}
+// Bootstrap sass files
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
